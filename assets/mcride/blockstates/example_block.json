@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mcride:block/example_block"
+    }
+  }
+}

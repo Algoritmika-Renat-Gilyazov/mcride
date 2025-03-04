@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "mcride:block/example_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "mcride:block/example_world_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "item.minecraft.lingering_potion.effect.super_potion": "Lingering Super Potion",
+  "item.mcride.slime_spawn_egg": "Slime Spawn Egg",
+  "biome.mcride.example_biome": "Example Biome",
+  "item.mcride.example_world": "Dark Spawner",
+  "item.mcride.example_armor_chestplate": "Example Armor Chestplate",
+  "block.mcride.fat": "Fat",
+  "item.mcride.example_armor_helmet": "Example Armor Helmet",
+  "item.minecraft.potion.effect.super_potion": "Super Potion",
+  "item.mcride.example_armor_boots": "Example Armor Boots",
+  "item.minecraft.splash_potion.effect.super_potion": "Splash Super Potion",
+  "item.mcride.example_armor_leggings": "Example Armor Trousers",
+  "entity.mcride.slime": "Slime",
+  "block.mcride.example_block": "Example Block",
+  "item.mcride.fat_bucket": "Fat Bucket",
+  "fluid.mcride.fat": "Fat",
+  "item.mcride.example_item": "Example Item",
+  "item_group.mcride.expiremental": "Expiremental",
+  "item_group.mcride.examples": "Examples",
+  "item.minecraft.tipped_arrow.effect.super_potion": "Arrow Super Potion"
+}

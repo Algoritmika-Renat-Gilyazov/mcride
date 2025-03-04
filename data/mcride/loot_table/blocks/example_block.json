@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mcride:blocks/example_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcride:example_block"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "has_precipitation": true,
+  "temperature": -1,
+  "downfall": 0.5,
+  "effects": {
+    "ambient_sound": "ambient.cave",
+    "mood_sound": {
+      "sound": "ambient.underwater.loop",
+      "tick_delay": 6000,
+      "offset": 8,
+      "block_search_extent": 2
+    },
+    "additions_sound": {
+      "sound": "ambient.nether_wastes.mood",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "ambient.basalt_deltas.mood",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "item_slime"
+      },
+      "probability": 0.05
+    },
+    "foliage_color": -3407668,
+    "grass_color": -3407668,
+    "sky_color": -16777216,
+    "fog_color": -16777216,
+    "water_color": -256,
+    "water_fog_color": -3355648
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "polar_bear",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 3
+      }
+    ],
+    "creature": [],
+    "ambient": [
+      {
+        "type": "bat",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "mcride:slime",
+        "weight": 25,
+        "minCount": 3,
+        "maxCount": 6
+      }
+    ],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [
+      {
+        "type": "cod",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "mcride:example_biome_tree"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

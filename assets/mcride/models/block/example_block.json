@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/chiseled_copper",
+    "up": "minecraft:block/copper_bulb_lit_powered",
+    "north": "minecraft:block/copper_block",
+    "east": "minecraft:block/copper_grate",
+    "south": "minecraft:block/copper_trapdoor",
+    "west": "minecraft:block/copper_grate",
+    "particle": "minecraft:block/chiseled_copper"
+  },
+  "render_type": "cutout"
+}

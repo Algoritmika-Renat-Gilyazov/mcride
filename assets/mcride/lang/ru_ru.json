@@ -1,0 +1,21 @@
+{
+  "item.minecraft.lingering_potion.effect.super_potion": "Туманное супер-зелье",
+  "item.mcride.slime_spawn_egg": "Яйцо призыва слизня для езды",
+  "biome.mcride.example_biome": "Пример биома",
+  "item.mcride.example_world": "Создаватель тьмы",
+  "item.mcride.example_armor_chestplate": "Пример нагрудника",
+  "block.mcride.fat": "Жир",
+  "item.mcride.example_armor_helmet": "Прмер шлема",
+  "item.minecraft.potion.effect.super_potion": "Супер-зелье",
+  "item.mcride.example_armor_boots": "Пример ботинок",
+  "item.minecraft.splash_potion.effect.super_potion": "Взрывное супер-зелье",
+  "item.mcride.example_armor_leggings": "Пример штанов",
+  "entity.mcride.slime": "Слизень для езды",
+  "block.mcride.example_block": "Пример блока",
+  "item.mcride.fat_bucket": "Ведро с жиром",
+  "fluid.mcride.fat": "Жир",
+  "item.mcride.example_item": "Пример предмета",
+  "item_group.mcride.expiremental": "Эксперименты(только для бета-версий)",
+  "item_group.mcride.examples": "Примеры объектов",
+  "item.minecraft.tipped_arrow.effect.super_potion": "Стрела с супер зельем"
+}

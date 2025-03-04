@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="mcride"
+version="0.0.1.000.001"
+displayName="Minecraft Riding"
+displayURL="https://github.com/Algoritmika-Renat-Gilyazov/mcride"
+credits="none"
+authors="Renat2104"
+description="BETA!!!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.mcride]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mcride]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
